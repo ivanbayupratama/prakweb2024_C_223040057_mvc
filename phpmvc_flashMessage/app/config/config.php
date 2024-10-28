@@ -1,6 +1,7 @@
 <?php
 
-define("BASEURL", "http://localhost/belajar/phpmvc_flashMessage/public");
+define("BASEURL", "http://localhost
+/phpmvc_flashMessage/public");
 
 // DATANASE
 define('DB_HOST', 'localhost');
